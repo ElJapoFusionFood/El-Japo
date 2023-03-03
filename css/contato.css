@@ -7,16 +7,17 @@
     font-size: 1em;
 }
 main{
-    width: 32vw;
     margin: auto;
+    max-width: 800px;
 }
 section{
     text-align: center;
     margin: auto;
+    max-width: 800px;
 }
 hgroup{
-    width: 565px;
-    height: 180px;
+    max-width: 800px;
+    height: auto;
     padding: 15px;
     border-radius: 25px;
     background-image: url(../img/combosushi01.jpg);
